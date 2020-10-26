@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="921.061" height="259.299" viewBox="0 0 921.061 259.299">
+  <g id="Grupo_10929" data-name="Grupo 10929" transform="translate(-259.47 -2858.713)">
+    <rect id="Rectángulo_3735" data-name="Rectángulo 3735" width="261.661" height="114.065" transform="translate(259.47 2858.713)" fill="#ffc82e"/>
+    <text id="FACTORES_INTERNOS" data-name="FACTORES INTERNOS" transform="translate(293.371 2903.694)" fill="#00223d" font-size="17" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="18">FACTORES INTERNOS</tspan></text>
+    <rect id="Rectángulo_3736" data-name="Rectángulo 3736" width="261.661" height="135.666" transform="translate(259.47 2980.348)" fill="#c0e54c"/>
+    <text id="FACTORES_EXTERNOS" data-name="FACTORES EXTERNOS" transform="translate(293.371 3036.129)" fill="#00223d" font-size="17" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="18">FACTORES EXTERNOS</tspan></text>
+    <rect id="Rectángulo_3737" data-name="Rectángulo 3737" width="319.379" height="52.8" transform="translate(533.095 2859.057)" fill="#ffd358"/>
+    <text id="DEBILIDADES" transform="translate(548.47 2874.8)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="93.156" y="17">DEBILIDADES</tspan></text>
+    <rect id="Rectángulo_3738" data-name="Rectángulo 3738" width="319.379" height="52.8" transform="translate(860.467 2859.057)" fill="#ffd358"/>
+    <text id="FORTALEZAS" transform="translate(875.841 2874.8)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="95.25" y="17">FORTALEZAS</tspan></text>
+    <rect id="Rectángulo_3739" data-name="Rectángulo 3739" width="319.379" height="52.8" transform="translate(533.095 2919.978)" fill="#ffdfcc"/>
+    <text id="Rotación_de_personal" data-name="Rotación de personal" transform="translate(548.47 2935.721)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Rotación de personal</tspan></text>
+    <rect id="Rectángulo_3740" data-name="Rectángulo 3740" width="319.379" height="52.8" transform="translate(861.152 2919.978)" fill="#ffdfcc"/>
+    <text id="Mano_de_obra_calificada" data-name="Mano de obra calificada" transform="translate(876.526 2935.721)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Mano de obra calificada</tspan></text>
+    <rect id="Rectángulo_3741" data-name="Rectángulo 3741" width="319.379" height="52.8" transform="translate(533.095 2980.348)" fill="#cdea70"/>
+    <text id="AMENAZAS" transform="translate(548.47 2996.091)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="100.875" y="17">AMENAZAS</tspan></text>
+    <rect id="Rectángulo_3742" data-name="Rectángulo 3742" width="319.379" height="52.8" transform="translate(860.467 2980.348)" fill="#cdea70"/>
+    <text id="OPORTUNIDADES" transform="translate(875.841 2996.091)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="75.879" y="17">OPORTUNIDADES</tspan></text>
+    <rect id="Rectángulo_3743" data-name="Rectángulo 3743" width="319.379" height="74.745" transform="translate(533.095 3041.269)" fill="#ffdfcc"/>
+    <text id="Cercanía_a_la_población_o_un_río" data-name="Cercanía a la población o un río" transform="translate(548.47 3057.012)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Cercanía a la población o un río</tspan></text>
+    <rect id="Rectángulo_3744" data-name="Rectángulo 3744" width="319.379" height="74.745" transform="translate(861.152 3041.269)" fill="#ffdfcc"/>
+    <text id="Cumplimiento_de_requisitos_legales_ambientales" data-name="Cumplimiento de requisitos legales ambientales" transform="translate(876.526 3057.012)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Cumplimiento de requisitos legales </tspan><tspan x="0" y="39">ambientales</tspan></text>
+  </g>
+</svg>
