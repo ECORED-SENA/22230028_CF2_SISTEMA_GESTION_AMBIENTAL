@@ -36,9 +36,9 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('1', 'Componentes del medio ambiente', '#tema-1')
-                                    +navTemaItem('2', 'Generalidades ISO 14000. Antecedentes, Familia de las ISO 14000', '#tema-2')
-                                    +navTemaItem('3', 'Términos y definiciones usadas en un SGA', '#tema-3')    
+                                    +navTemaItem('text', 'Introducción', '#tema-1')
+                                    +navTemaItem('1', 'Planificación del SGA', '#tema-2')
+                                    +navTemaItem('2', 'Operación del SGA', '#tema-3')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
@@ -46,8 +46,10 @@ html(lang="es")
 
         section#mainContent         
             #tema-1
-                include pages/1-tema.pug
+                include pages/intro.pug
             #tema-2
+                include pages/1-tema.pug
+            #tema-3
                 include pages/2-tema.pug
             #glosario
                 include pages/glosario.pug
